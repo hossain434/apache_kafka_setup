@@ -42,7 +42,9 @@ Where are you?
 Follow the steps #1 to #8 on above.
 
 Run Producer.java
+
 Run Consumer.java
+
 Run AssignSeekConsumer.java
 
 Reference: https://medium.com/better-programming/an-introduction-to-apache-kafka-95a82260c1c3
